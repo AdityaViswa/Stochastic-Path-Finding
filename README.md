@@ -1,2 +1,3 @@
 # Stochastic-Path-Finding
-![Traversal](https://user-images.githubusercontent.com/111198614/218105652-fccf745a-4afd-46d8-a79a-3b8e9dc3b915.jpg)
+
+![Traversal](https://user-images.githubusercontent.com/111198614/218105886-a1e598f5-3f8c-415a-8c16-9a62232584b6.jpg)
